@@ -205,10 +205,6 @@ public class GameLogic extends ScrollingGameEngine {
             generateRareGetEntity();
         }
     }   
-        /* 
-        } */
-
-        //****   implement me!   ****
             
     
 
