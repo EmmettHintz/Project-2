@@ -136,7 +136,6 @@ public class GameLogic extends ScrollingGameEngine {
             Entity e = displayList.get(i);
             if (e.getRightX() <= 0){
                 displayList.remove(e);
-                //System.out.println("REMOVED");
             }      
             if (e instanceof ThrowEntity && e.getRightX() > getWindowWidth()){
                 displayList.remove(e);
@@ -267,11 +266,8 @@ public class GameLogic extends ScrollingGameEngine {
     protected boolean isGameOver(){
         if (zombiesKilled >= 25 || hp == 0)
             return true;
-        return false;   //****   placeholder... implement me!   ****
-       
+        return false;        
     }
-    
-    
     
     //Reacts to a single key press on the keyboard
     protected void handleKeyPress(int key){        
