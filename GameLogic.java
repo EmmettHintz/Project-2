@@ -19,7 +19,7 @@ public class GameLogic extends ScrollingGameEngine {
     private static final int STARTING_PLAYER_Y = 100;
     
     //Score needed to win the game
-    private static final int SCORE_TO_WIN = 300;
+    //private static final int SCORE_TO_WIN = 300;
     
     //Maximum that the game speed can be increased to
     //(a percentage, ex: a value of 300 = 300% speed, or 3x regular speed)
