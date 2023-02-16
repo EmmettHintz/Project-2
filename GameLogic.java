@@ -176,8 +176,6 @@ public class GameLogic extends ScrollingGameEngine {
             changeCharacterState(PlayerEntity.PLAYER_AFTER_TACO);
             tacoKillCount = 0;
         }
-        
-        //hp += collidedWith.getDamageValue();
         displayList.remove((Consumable)collidedWith);
         if (isGameOver()){
             postGame();
