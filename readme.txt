@@ -1,3 +1,8 @@
+# Plants Vs. Zombies Scrolling Survival Game  
+
+This has been my favorite project that I have completed for a class -- If you want to run the program, clone the repository and run the Launcher.java script.
+
+
 ReadME (Given by class for completion)
 In addition to your code, you will also create and submit a ReadMe file. Your ReadMe will be a text document
 (meaning .txt file, no Word or Google Doc files please) containing the following:
