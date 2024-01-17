@@ -1,4 +1,4 @@
- ReadMe
+ReadME (Given by class)
 In addition to your code, you will also create and submit a ReadMe file. Your ReadMe will be a text document
 (meaning .txt file, no Word or Google Doc files please) containing the following:
 • a description of your game’s theme
